@@ -1,4 +1,4 @@
-baseURL: "https://yanrui06.github.io/"
+baseURL: "https://yzeph.github.io/"
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "Zephyr的技术博客"
     subtitle: "分享技术，记录成长"
-    imageUrl: "https://github.com/YanRui06.png"
+    imageUrl: "https://github.com/Yzeph.png"
     imageWidth: 120
     imageHeight: 120
     buttons:
@@ -59,7 +59,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/YanRui06"
+      url: "https://github.com/Yzeph"
 
   mainSections: ["posts"]
 
