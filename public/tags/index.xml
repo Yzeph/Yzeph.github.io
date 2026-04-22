@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on </title>
-    <link>https://yanrui06.github.io/tags/</link>
+    <link>https://yzeph.github.io/tags/</link>
     <description>Recent content in Tags on </description>
-    <generator>Hugo -- 0.147.4</generator>
+    <generator>Hugo -- 0.160.1</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yanrui06.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yzeph.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://yanrui06.github.io/tags/hugo/</link>
+      <link>https://yzeph.github.io/tags/hugo/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yanrui06.github.io/tags/hugo/</guid>
+      <guid>https://yzeph.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>博客</title>
-      <link>https://yanrui06.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://yzeph.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yanrui06.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://yzeph.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>教程</title>
-      <link>https://yanrui06.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+      <link>https://yzeph.github.io/tags/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yanrui06.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://yzeph.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
   </channel>
