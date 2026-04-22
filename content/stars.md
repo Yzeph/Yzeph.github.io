@@ -1,3 +1,8 @@
+---
+title: "星标项目"
+layout: "single"
+---
+
 # My GitHub Stars
 
 Total stars: 170
@@ -294,4 +299,3 @@ Total stars: 170
 ## WebAssembly
 
 - [Evil0ctal/WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption) - 一个可在线运行的微信视频号加密视频解密工具和 API 服务，基于逆向工程分析实现。本项目使用微信官方的 WebAssembly (WASM) 模块来生成 Isaac64 PRNG 密钥流，并通过 XOR 运算完成视频解密。 (★201)
-

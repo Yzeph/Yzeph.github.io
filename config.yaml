@@ -54,6 +54,8 @@ params:
         url: archives
       - name: 项目
         url: projects
+      - name: 星标项目
+        url: stars
       - name: 关于
         url: about
 
@@ -84,6 +86,10 @@ menu:
       name: 项目
       url: /projects/
       weight: 20
+    - identifier: stars
+      name: 星标项目
+      url: /stars/
+      weight: 25
     - identifier: about
       name: 关于
       url: /about/
