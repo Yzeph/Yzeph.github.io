@@ -84,11 +84,18 @@ def generate_stars_md(repos):
 
     lines.append("## 时间线")
     lines.append("")
+    current_month = ""
     for repo in chrono_repos:
-        date = repo["starred_at"][:10]
+        month_key = repo["starred_at"][:7]
+        day = repo["starred_at"][8:10]
         desc = repo["description"]
+        if month_key != current_month:
+            year, mon = month_key.split("-")
+            lines.append(f"### {year}年{int(mon)}月")
+            lines.append("")
+            current_month = month_key
         lines.append(
-            f"- [{date}] [{repo['name']}]({repo['url']}) - {desc} (★{repo['stars']})"
+            f"- **{day}日** [{repo['name']}]({repo['url']}) - {desc} (★{repo['stars']})"
         )
     lines.append("")
 
