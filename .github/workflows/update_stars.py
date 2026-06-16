@@ -55,7 +55,7 @@ def generate_stars_md(repos):
 
     sorted_langs = sorted(lang_groups.keys(), key=lambda x: x.lower())
     for lang in lang_groups:
-        lang_groups[lang].sort(key=lambda r: r["stars"], reverse=True)
+        lang_groups[lang].sort(key=lambda r: r["starred_at"], reverse=True)
 
     chrono_repos = sorted(repos, key=lambda r: r["starred_at"], reverse=True)
     total = len(repos)
