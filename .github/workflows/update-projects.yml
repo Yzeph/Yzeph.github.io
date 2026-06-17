@@ -31,12 +31,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cat > update_projects.py << 'EOF'
-          from github import Github
+          from github import Github, Auth
           import os
-          
+
           def update_projects():
-              g = Github(os.environ['GITHUB_TOKEN'])
-              user = g.get_user('YanRui06')
+              g = Github(auth=Auth.Token(os.environ['GITHUB_TOKEN']))
+              user = g.get_user('Yzeph')
               repos = user.get_repos()
               
               content = """---
