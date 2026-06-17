@@ -19,12 +19,11 @@ params:
   DateFormat: "2006-01-02"
   defaultTheme: auto
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -53,11 +52,13 @@ params:
       - name: 归档
         url: archives
       - name: 项目
-        url: projects
+        url: https://github.com/Yzeph?tab=repositories
       - name: 星标项目
         url: stars
       - name: 关于
         url: about
+      - name: 友链
+        url: links
 
   socialIcons:
     - name: github
@@ -84,7 +85,7 @@ menu:
       weight: 15
     - identifier: projects
       name: 项目
-      url: /projects/
+      url: https://github.com/Yzeph?tab=repositories
       weight: 20
     - identifier: stars
       name: 星标项目
@@ -94,6 +95,10 @@ menu:
       name: 关于
       url: /about/
       weight: 30
+    - identifier: links
+      name: 友链
+      url: /links/
+      weight: 35
 
 pagination:
   pagerSize: 5
