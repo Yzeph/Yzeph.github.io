@@ -25,7 +25,7 @@
 - **主题**: PaperMod
 - **部署**: GitHub Pages
 - **CI/CD**: GitHub Actions
-- **域名**: yzeph.github.io
+- **域名**: zephyr-rain.me
 
 ## 📁 项目结构
 
