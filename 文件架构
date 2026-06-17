@@ -1,30 +1,32 @@
-YanRui06.github.io/           # 项目根目录
-├── .github/                  # GitHub 相关配置目录
-│   └── workflows/            # GitHub Actions 工作流配置
-│       ├── hugo.yml          # Hugo 自动部署工作流
-│       └── update-projects.yml  # 项目自动更新工作流
-├── .gitignore                # Git 忽略文件配置
-├── CNAME                     # 自定义域名配置文件
-├── archetypes/              # 内容模板目录
-│   └── default.md           # 默认的内容模板
-├── config.yaml              # 站点配置文件
-├── content/                 # 网站内容目录
-│   ├── about/               # 关于页面
-│   │   └── index.md         # 关于页面内容
-│   ├── posts/               # 博客文章目录
-│   │   ├── first-post.md    # 第一篇博客文章
-│   │   └── hugo-blog-setup.md  # Hugo 博客搭建教程
-│   └── projects/            # 项目展示目录
-│       └── _index.md        # 项目列表页面
-├── themes/                  # 主题目录
-│   └── PaperMod/            # PaperMod 主题
-│       ├── .github/         # 主题的 GitHub 配置
-│       ├── LICENSE          # 主题许可证
-│       ├── README.md        # 主题说明文档
-│       ├── assets/          # 主题资源文件
-│       ├── go.mod           # Go 模块定义
-│       ├── i18n/            # 国际化文件
-│       ├── images/          # 主题图片资源
-│       ├── layouts/         # 主题布局模板
-│       └── theme.toml       # 主题配置文件
-└── 文件架构                  # 当前的文件结构说明文件
+Yzeph.github.io/                # 项目根目录
+├── .github/                    # GitHub 相关配置目录
+│   └── workflows/              # GitHub Actions 工作流配置
+│       ├── hugo.yml            # Hugo 自动部署工作流
+│       ├── update-projects.yml # 项目自动更新工作流
+│       ├── update-stars.yml    # GitHub 星标项目同步工作流
+│       └── update_stars.py     # 星标项目同步脚本
+├── .gitignore                  # Git 忽略文件配置
+├── archetypes/                 # 内容模板目录
+│   └── default.md              # 默认的内容模板
+├── CNAME                       # 自定义域名配置文件
+├── config.yaml                 # 站点配置文件
+├── content/                    # 网站内容目录
+│   ├── about/                  # 关于页面
+│   │   └── index.md            # 关于页面内容
+│   ├── archives.md             # 归档页面
+│   ├── posts/                  # 博客文章目录
+│   │   ├── 技术/               # 技术分类
+│   │   │   ├── _index.md       # 分类索引
+│   │   │   └── 使用Hugo搭建个人博客.md
+│   │   └── 随笔/               # 随笔分类
+│   │       ├── _index.md       # 分类索引
+│   │       └── 我的第一篇博客.md
+│   ├── projects/               # 项目展示目录
+│   │   └── _index.md           # 项目列表页面
+│   └── stars.md                # GitHub 星标项目页面
+├── static/                     # 静态资源目录
+│   └── ads.txt                 # 广告验证文件
+├── themes/                     # 主题目录
+│   └── PaperMod/               # PaperMod 主题（子模块）
+├── README.md                   # 项目说明文档
+└── 文件架构                     # 当前文件结构说明
