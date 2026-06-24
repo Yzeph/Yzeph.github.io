@@ -9,288 +9,599 @@ showtoc: true
 
 Total stars: 207
 
-## 2026年06月
+## Table of Contents
 
-- [ziqihe10-droid/xuefeng-agent](https://github.com/ziqihe10-droid/xuefeng-agent) - AI 高考志愿顾问 — 会追问、会分析、敢说真话 (★693)
-- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记 (★6531)
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (★180122)
-- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser (★7877)
-- [SulfurQWQ/sddm_Random_Kipfel_Login](https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login) - It's a sddm login interface for Arch Linux with a lot of kipfel pictures I took in Vrchat / 这是一个给Arch Liunx用的sddm登陆界面，里面有很多我在vrc拍的kipfel壁纸 (★1)
-- [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site (★1067)
-- [tuna/tunasync](https://github.com/tuna/tunasync) - Mirror job management tool.  (★1851)
-- [Ukenn2112/Ukenn-index](https://github.com/Ukenn2112/Ukenn-index) - 维安雨轩 の 后花园 (★17)
-- [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator. (★716)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (★26685)
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   (★24800)
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (★19363)
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (★52942)
-- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 (★21217)
-- [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop. (★5822)
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (★13632)
-- [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接 (★3115)
-- [queensferryme/hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify) - A minimal, latex-style hugo theme for personal blogging (★149)
-- [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎 (★3854)
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (★146352)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (★172933)
+- [时间线](#时间线)
+  - [Batchfile](#batchfile)
+  - [C](#c)
+  - [C#](#csharp)
+  - [C++](#c++)
+  - [CSS](#css)
+  - [Emacs Lisp](#emacs-lisp)
+  - [GDScript](#gdscript)
+  - [Go](#go)
+  - [HTML](#html)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Jinja](#jinja)
+  - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
+  - [Lua](#lua)
+  - [Markdown](#markdown)
+  - [Others](#others)
+  - [PHP](#php)
+  - [PowerShell](#powershell)
+  - [Python](#python)
+  - [QML](#qml)
+  - [Rust](#rust)
+  - [Shell](#shell)
+  - [Swift](#swift)
+  - [TeX](#tex)
+  - [TypeScript](#typescript)
+  - [Verilog](#verilog)
+  - [Vim Script](#vim-script)
+  - [Visual Basic](#visual-basic)
+  - [Vue](#vue)
+  - [WebAssembly](#webassembly)
 
-## 2026年05月
+## 时间线
 
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (★39832)
-- [sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node) - 网易云音乐接口 (★586)
-- [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端 (★654)
-- [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本 (★9809)
-- [Lipomoea/kanameishi](https://github.com/Lipomoea/kanameishi) - 一个基于多款公开API服务、使用Vue和Leaflet开发的接收地震预警及传递相关资讯的Web应用。 (★107)
-- [Youthdreamer/nixos-config](https://github.com/Youthdreamer/nixos-config) - No description (★31)
-- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph. (★9200)
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (★27542)
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io (★107221)
-- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 (★4936)
-- [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。 (★3323)
+### 2026年6月
 
-## 2026年04月
+- **23日** [ziqihe10-droid/xuefeng-agent](https://github.com/ziqihe10-droid/xuefeng-agent) - AI 高考志愿顾问 — 会追问、会分析、敢说真话 (★693)
+- **20日** [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记 (★6531)
+- **19日** [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (★180122)
+- **19日** [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser (★7877)
+- **18日** [SulfurQWQ/sddm_Random_Kipfel_Login](https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login) - It's a sddm login interface for Arch Linux with a lot of kipfel pictures I took in Vrchat / 这是一个给Arch Liunx用的sddm登陆界面，里面有很多我在vrc拍的kipfel壁纸 (★1)
+- **18日** [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site (★1067)
+- **17日** [tuna/tunasync](https://github.com/tuna/tunasync) - Mirror job management tool.  (★1851)
+- **17日** [Ukenn2112/Ukenn-index](https://github.com/Ukenn2112/Ukenn-index) - 维安雨轩 の 后花园 (★17)
+- **17日** [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator. (★716)
+- **16日** [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (★26685)
+- **16日** [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   (★24800)
+- **16日** [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (★19363)
+- **16日** [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (★52942)
+- **15日** [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 (★21217)
+- **13日** [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop. (★5822)
+- **13日** [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (★13632)
+- **13日** [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接 (★3115)
+- **11日** [queensferryme/hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify) - A minimal, latex-style hugo theme for personal blogging (★149)
+- **08日** [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎 (★3854)
+- **07日** [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (★146352)
+- **06日** [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (★172933)
+### 2026年5月
 
-- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (★38807)
-- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.  (★3099)
+- **31日** [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (★39833)
+- **28日** [sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node) - 网易云音乐接口 (★586)
+- **28日** [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端 (★654)
+- **28日** [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本 (★9809)
+- **24日** [Lipomoea/kanameishi](https://github.com/Lipomoea/kanameishi) - 一个基于多款公开API服务、使用Vue和Leaflet开发的接收地震预警及传递相关资讯的Web应用。 (★107)
+- **22日** [Youthdreamer/nixos-config](https://github.com/Youthdreamer/nixos-config) - No description (★31)
+- **21日** [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph. (★9200)
+- **19日** [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (★27542)
+- **15日** [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io (★107221)
+- **15日** [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 (★4936)
+- **10日** [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。 (★3323)
+### 2026年4月
+
+- **26日** [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (★38807)
+- **25日** [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.  (★3099)
+- **24日** [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century. (★4959)
+- **22日** [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree (★1636)
+- **22日** [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. (★3568)
+- **22日** [rakisaionji/SAWARATSUKI-ServiceLogos](https://github.com/rakisaionji/SAWARATSUKI-ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠  (★29)
+- **22日** [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (★94370)
+- **22日** [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars! (★1919)
+- **19日** [Evil0ctal/WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption) - 一个可在线运行的微信视频号加密视频解密工具和 API 服务，基于逆向工程分析实现。本项目使用微信官方的 WebAssembly (WASM) 模块来生成 Isaac64 PRNG 密钥流，并通过 XOR 运算完成视频解密。 (★283)
+- **18日** [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具 (★6764)
+- **18日** [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用 (★11855)
+- **15日** [fshiori/magi](https://github.com/fshiori/magi) - Three LLMs debate to make better decisions than any single model. Inspired by EVA's MAGI supercomputer. (★114)
+- **14日** [charlesbel/Microsoft-Rewards-Farmer](https://github.com/charlesbel/Microsoft-Rewards-Farmer) - A simple bot that uses selenium to farm Microsoft Rewards written in Python (★1130)
+- **14日** [huaisha1224/Microsoft-Rewards](https://github.com/huaisha1224/Microsoft-Rewards) - 使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本 (★237)
+- **11日** [shodan1q/orb-core](https://github.com/shodan1q/orb-core) - "喂！星" -- 第一颗属于每个人的私人卫星 #黑客松巅峰赛 #Redhackathon (★16)
+- **10日** [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application (★13278)
+- **02日** [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。 (★855)
+### 2026年3月
+
+- **31日** [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (★194225)
+- **23日** [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (★31812)
+- **17日** [MaoTouHU/vibecodingcn](https://github.com/MaoTouHU/vibecodingcn) - 让国内开发者能光速跟上这波浪潮。汇集了目前全球最顶尖的 AI 编程资源, 是 Vibe Coding 氛围感编程的中文指南 (★277)
+- **16日** [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (★9775)
+- **16日** [H-Freax/TermHub](https://github.com/H-Freax/TermHub) - TermHub is a terminal-style homepage template. (★99)
+- **12日** [yatori-dev/yatori-go-console](https://github.com/yatori-dev/yatori-go-console) - Yatori课程助手，支持英华慕课(英华学堂及所有英华套壳平台)、超星学习通、学习公社、大学生网络党校、中小学网络党校、创能平台、仓辉等平台、社会公益课、重庆工程学院CQIE、码上研训等 (★522)
+- **11日** [HarukaMa/HarukaMa](https://github.com/HarukaMa/HarukaMa) - No description (★6)
+- **10日** [wit-l/wit-l.github.io](https://github.com/wit-l/wit-l.github.io) - blog (★1)
+- **10日** [wit-l/NeovimStarter](https://github.com/wit-l/NeovimStarter) - my neovim config files (★5)
+- **10日** [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (★127494)
+- **08日** [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 (★1801)
+### 2026年2月
+
+- **27日** [SHORiN-KiWATA/Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。 (★2029)
+- **27日** [SHORiN-KiWATA/shorin-arch-setup](https://github.com/SHORiN-KiWATA/shorin-arch-setup) - 一键配置archlinux桌面环境 (★264)
+- **24日** [gnuunixchad/dotfiles](https://github.com/gnuunixchad/dotfiles) - My Arch GNU/Linux (★218)
+- **13日** [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone (★25586)
+- **08日** [cyfqhyjs/Student-Management-System](https://github.com/cyfqhyjs/Student-Management-System) - 学生管理系统 (★1)
+- **05日** [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (★126063)
+### 2026年1月
+
+- **21日** [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (★8163)
+- **20日** [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt) - Small language model built in Minecraft. (★711)
+- **18日** [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial (★9937)
+### 2025年12月
+
+- **29日** [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script (★9168)
+- **27日** [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) - Live2D Library for Python (C++ impl): Supports model loading, lip-sync, basic face rigging, and precise click test. (★547)
+- **27日** [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal. (★3862)
+- **25日** [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀 (★6384)
+- **25日** [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | 回家 | GitHub Actions | JMComic3 | JMComic2 (★5315)
+- **25日** [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (★24290)
+- **23日** [opq-osc/OPQ](https://github.com/opq-osc/OPQ) - OPQ RST UVW XYZ (★443)
+- **20日** [frankion10093/yui_agent](https://github.com/frankion10093/yui_agent) - No description (★1)
+- **15日** [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (★32274)
+- **09日** [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (★85736)
+- **05日** [catppuccin/windows-files](https://github.com/catppuccin/windows-files) - 🍪 Soothing pastel theme for Windows Files (★204)
+### 2025年11月
+
+- **26日** [SilentSys/SLAM](https://github.com/SilentSys/SLAM) - Source Live Audio Mixer (★391)
+- **24日** [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (★19376)
+- **24日** [YuniqueUnic/animated-sign-4u](https://github.com/YuniqueUnic/animated-sign-4u) - Animated Sign 4u is a small Next.js app and HTTP API for generating animated signature SVGs and static PNG/GIF images.  You can:  Type a name/signature and pick a script/brand fontAnimated Sign ZH  Apply themes (backgrounds, textures, glow/shadow)  Use per-character colors or gradients  Enable Hanzi stroke-by-stroke animation  (★45)
+- **21日** [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (★25979)
+- **14日** [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11. (★5142)
+- **13日** [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (★56955)
+- **13日** [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 (★59838)
+- **10日** [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 (★28192)
+- **10日** [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator (★12048)
+- **05日** [Live-GalGame/LiveGalGame](https://github.com/Live-GalGame/LiveGalGame) - 修复了现实世界里和异性对话没有选择项的 Bug (★2496)
+- **05日** [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool. (★5120)
+- **01日** [catppuccin/waybar](https://github.com/catppuccin/waybar) - 📏 Soothing pastel theme for Waybar (★562)
+### 2025年10月
+
+- **27日** [yokochen222/moss-xiaozhi](https://github.com/yokochen222/moss-xiaozhi) - 基于小智AI智能体 实现的流浪地球MOSS版本 (★225)
+- **27日** [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file (★45334)
+- **17日** [InsideEmpire/CS61B-PathwayToSuccess](https://github.com/InsideEmpire/CS61B-PathwayToSuccess) - This repository contains all the lab, homework, and project code solutions for the CS61B Spring 2018 course, along with detailed comments. 这个仓库包含了 CS61B Spring 2018 课程的所有lab、作业和项目代码解答，并附有详细注释。 (★152)
+- **17日** [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (★73318)
+- **14日** [WLHSDXN/Project2](https://github.com/WLHSDXN/Project2) - No description (★73)
+- **03日** [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学 (★315)
+- **03日** [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) - The official repo for Wild Chicken University (★126)
+### 2025年9月
+
+- **30日** [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes. (★602)
+- **30日** [LeeWio/dotfiles](https://github.com/LeeWio/dotfiles) - No description (★8)
+- **29日** [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (★22197)
+- **29日** [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows (★4569)
+- **22日** [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (★3451)
+### 2025年8月
+
+- **28日** [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - ⌨️ keyboard-based digital signatures (★906)
+- **25日** [KouriChat/KouriChat](https://github.com/KouriChat/KouriChat) - 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream. (★3198)
+- **22日** [Akanyi/Gaynum](https://github.com/Akanyi/Gaynum) - A counter of your name‘s gay rate (★42)
+- **10日** [Pi3-l22/Pi3-l22.github.io](https://github.com/Pi3-l22/Pi3-l22.github.io) - No description (★2)
+- **08日** [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest (★1400)
+### 2025年7月
+
+- **23日** [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (★21414)
+- **22日** [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art. (★500)
+- **20日** [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。 (★3998)
+- **20日** [xccii/Barloyd.github.io](https://github.com/xccii/Barloyd.github.io) - No description (★1)
+- **05日** [aibox22/readmeX](https://github.com/aibox22/readmeX) - An AI Powered README and Interactive Wiki Generator for Any Projects. AI驱动的README及交互式Wiki生成工具，面向中文的开源DeepWiki。 (★412)
+- **04日** [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (★26706)
+### 2025年6月
+
+- **27日** [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator (★7933)
+- **25日** [Yzeph/MarkWord](https://github.com/Yzeph/MarkWord) - Markdown to Word converter with syntax highlighting and cross-platform support (★5)
+- **25日** [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (★158342)
+- **23日** [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator. (★17907)
+- **23日** [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ (★9603)
+- **22日** [IRVING-L/Algorithm_fromBilibili](https://github.com/IRVING-L/Algorithm_fromBilibili) - 《B站-青岛大学-王卓老师-数据结构与算法基础》自学心得、笔记（C++语言实现） (★1216)
+- **20日** [whyyy-404/ChaoXing-SuperSrarLearn](https://github.com/whyyy-404/ChaoXing-SuperSrarLearn) - 🥇【学习通助手】【完全免费】【一键挂机】【视频+测试+考试+AI解答】 全自动刷课脚本|可调节倍速|自答题目🏆（吉猪生活）🥳大学必备神器🎉 (★25)
+- **20日** [Trashwbin/MultiAI-Answer-cx](https://github.com/Trashwbin/MultiAI-Answer-cx) - 超星学习通-考试💯基于多模型 AI 投票的智能答题助手，让答题更轻松、更准确。免费、快速上手⭐ (★55)
+- **20日** [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (★2823)
+- **13日** [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin) - Miao-Plugin for Yunzai-Bot (★1580)
+- **13日** [Genshin-bots/gsuid_core](https://github.com/Genshin-bots/gsuid_core) - 💖一套业务逻辑，多个平台支持！异步核心框架GsCore，为插件编写提供完善平台支持、核心数据库统一、复用游戏查询逻辑、网页控制台，支持Bot列表: NoneBot2 & HoshinoBot & ZeroBot & YunZaiBot & Koishi (★327)
+- **13日** [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (★5605)
+- **12日** [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ (★21560)
+- **12日** [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (★37930)
+- **12日** [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly (★8318)
+- **11日** [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库 (★9706)
+- **11日** [zwStar/meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端 (★317)
+- **10日** [MNDJ777/HDMI2EL](https://github.com/MNDJ777/HDMI2EL) - This is a project aiming on building a HDMI-EL display adapter.  (★18)
+- **10日** [rstyro/Springboot](https://github.com/rstyro/Springboot) - springboot 和一些主流框架的整合的各个基本demo (★1314)
+- **10日** [forthespada/MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer) - 一款可运行的基于C++ 实现的WebServer服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。 (★1470)
+- **09日** [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design. (★5547)
+- **06日** [geekplux/cv_resume](https://github.com/geekplux/cv_resume) - A latex cv/resume template. (★519)
+- **04日** [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (★518934)
+- **04日** [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (★358111)
+### 2025年5月
+
+- **29日** [JimmyLing233/Github-Student-Certification-Guide](https://github.com/JimmyLing233/Github-Student-Certification-Guide) - Github学生认证及学生包申请指南 (★232)
+- **28日** [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time  (★30326)
+- **28日** [frankion10093/MyBlog](https://github.com/frankion10093/MyBlog) - 这是基于vue和springboot开发的前后端分离博客 (★1)
+- **28日** [frankion10093/StaffManagementSystem](https://github.com/frankion10093/StaffManagementSystem) - No description (★2)
+- **27日** [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage (★4573)
+- **26日** [Mr-Righter/Mr-Righter.github.io](https://github.com/Mr-Righter/Mr-Righter.github.io) - No description (★1)
+- **25日** [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。 (★34096)
+- **25日** [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人 (★27547)
+- **17日** [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (★13698)
+- **16日** [nekocatso/nekocatso](https://github.com/nekocatso/nekocatso) - 我的个人主页,欢迎fork (★8)
+- **16日** [Yzeph/Student-Management-System](https://github.com/Yzeph/Student-Management-System) - 学生管理系统 (★4)
+- **15日** [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.   (★18041)
+- **15日** [LazyVim/starter](https://github.com/LazyVim/starter) - Starter template for LazyVim (★1926)
+- **05日** [214140846/TOGO_School_Miniprograme](https://github.com/214140846/TOGO_School_Miniprograme) - 校园小程序 高校教务 教务查询 校园二手交易 校园论坛 本地生活 跑腿代取 校园评选 兼职招聘 校园生态 云开发小程序 高校 校园新媒体大学生创业 校园教务系统 智慧校园 课表 成绩 空教室 论坛 上课提醒 成绩推送 (★407)
+### 2025年4月
+
+- **23日** [Misaka-1314/MisakaStudy-MiniProgram](https://github.com/Misaka-1314/MisakaStudy-MiniProgram) - ⭐⭐爱学习签到助手⭐⭐ 本项目基于原生微信小程序开发，无需安装 签到更快捷，支持转发快速代签！无需安装，无安全隐患！✨非开源版支持自动通过滑块验证码，支持批量二维码签到，更多细节请阅读文档！ (★549)
+- **09日** [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code (★48570)
+- **09日** [Worthy-Wang/offerMachine](https://github.com/Worthy-Wang/offerMachine) - 📚【后台研发岗】面试精华总结（地表最全）。包含C/C++，算法，操作系统，计算机网络，Linux，网络编程，信息安全，数据库等 重点面试知识（持续更新） (★293)
+- **05日** [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。 (★2306)
+- **05日** [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/ (★8203)
+### 2025年3月
+
+- **29日** [shylinux/ContextOS](https://github.com/shylinux/ContextOS) - a new cloud operate system (★24)
+- **25日** [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案 (★1200)
+- **17日** [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |  (★18823)
+- **17日** [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 (★46852)
+- **17日** [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow (★16439)
+- **17日** [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 (★127889)
+- **16日** [orchestor/book](https://github.com/orchestor/book) - 个人收藏的一些计算机方面的书 (★49)
+- **16日** [Zao-chen/ZcChat](https://github.com/Zao-chen/ZcChat) - 一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame (★544)
+- **12日** [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ (★35230)
+- **10日** [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) - NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台于一体，兼具高扩展性、多模态交互、实时状态推送和自动化运行能力。项目支持 QQ、Discord、Telegram、Minecraft、BilibiliLive、WeChat、Email、SSE(SDK) 等多种平台接入，应用于构建高智能聊天机器人，可扩展为具备代码执行、工具调用、插件协作和复杂任务处理能力的通用 Agent 系统 (★898)
+- **08日** [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection. (★5194)
+- **03日** [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies (★12406)
+### 2025年2月
+
+- **23日** [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally. (★45555)
+### 2025年1月
+
+- **30日** [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby (★4353)
+### 2024年12月
+
+- **09日** [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 (★27595)
+- **09日** [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/ (★5685)
+### 2024年11月
+
+- **27日** [lich0821/BotFlow](https://github.com/lich0821/BotFlow) - 机器人框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。 (★1960)
+- **22日** [koishijs/uwu](https://github.com/koishijs/uwu) - Koishi VTuberized Logo (★11)
+- **21日** [Yzeph/College-study](https://github.com/Yzeph/College-study) - 洛谷刷题记录 (★5)
+- **17日** [openxlings/xlings](https://github.com/openxlings/xlings) - Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready. (★587)
+- **07日** [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 (★8050)
+- **06日** [caofangkuai/The-Wandering-Earth-550W](https://github.com/caofangkuai/The-Wandering-Earth-550W) - 流浪地球550W量子计算机 -- The Wandering Earth 550W (★7)
+- **06日** [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (★162485)
+- **06日** [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具） (★3065)
+- **04日** [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card (★7620)
+### 2024年10月
+
+- **29日** [coralfox/koishi-qqbot](https://github.com/coralfox/koishi-qqbot) - koishi框架QQ机器人 (★1)
+- **28日** [destoryD/chaoxing-api](https://github.com/destoryD/chaoxing-api) - 超星/超星尔雅/智慧树/学习通/职教云/智慧职教/中国大学MOOC/雨课堂/考试星等网课题库查题接口API (★247)
+- **28日** [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (★24785)
+- **28日** [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home. (★100886)
+- **27日** [michaelliao/awesome-python3-webapp](https://github.com/michaelliao/awesome-python3-webapp) - 小白的Python入门教程实战篇 (★2822)
+- **27日** [PacktPublishing/Mobile-Deep-Learning-Projects](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects) -  Mobile Deep Learning Projects, published by Packt (★49)
+- **23日** [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  (★61997)
+- **13日** [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (★18871)
+- **13日** [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 (★39103)
+- **12日** [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares  (★25233)
+- **12日** [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me (★2623)
+- **12日** [uuware/icons-font-customization](https://github.com/uuware/icons-font-customization) - Thanks for forking and starring! If you want any features please raise issues! A collection of over 78,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. (★141)
+- **12日** [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 (★16226)
+- **12日** [niubiqigai/turtle](https://github.com/niubiqigai/turtle) - 使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码 (★447)
+- **11日** [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算 (★1331)
+- **10日** [ChaosJulien/XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto) - 用于小猿口算的基于Python的自动答题工具 (★622)
+### 2024年9月
+
+- **23日** [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. (★46862)
+- **14日** [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等 (★21826)
+### 2024年8月
+
+- **13日** [jiangjiangjun/Script](https://github.com/jiangjiangjun/Script) - 分享一些自己写的或者搜集的脚本以及小工具！ (★41)
+### 2024年7月
+
+- **27日** [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程 (★10988)
+### 2023年1月
+
+- **18日** [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops. (★7535)
+- **15日** [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 (★49716)
+- **14日** [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器 (★8317)
+### 2022年10月
+
+- **28日** [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 (★22856)
+
+## Batchfile
+
+- [jiangjiangjun/Script](https://github.com/jiangjiangjun/Script) - 分享一些自己写的或者搜集的脚本以及小工具！ (★41)
+
+## C
+
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century. (★4959)
 - [cmatsuoka/figlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree (★1636)
-- [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. (★3568)
-- [rakisaionji/SAWARATSUKI-ServiceLogos](https://github.com/rakisaionji/SAWARATSUKI-ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠  (★29)
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (★94370)
-- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars! (★1919)
-- [Evil0ctal/WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption) - 一个可在线运行的微信视频号加密视频解密工具和 API 服务，基于逆向工程分析实现。本项目使用微信官方的 WebAssembly (WASM) 模块来生成 Isaac64 PRNG 密钥流，并通过 XOR 运算完成视频解密。 (★283)
-- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具 (★6764)
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用 (★11855)
-- [fshiori/magi](https://github.com/fshiori/magi) - Three LLMs debate to make better decisions than any single model. Inspired by EVA's MAGI supercomputer. (★114)
-- [charlesbel/Microsoft-Rewards-Farmer](https://github.com/charlesbel/Microsoft-Rewards-Farmer) - A simple bot that uses selenium to farm Microsoft Rewards written in Python (★1130)
-- [huaisha1224/Microsoft-Rewards](https://github.com/huaisha1224/Microsoft-Rewards) - 使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本 (★237)
-- [shodan1q/orb-core](https://github.com/shodan1q/orb-core) - "喂！星" -- 第一颗属于每个人的私人卫星 #黑客松巅峰赛 #Redhackathon (★16)
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application (★13278)
-- [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。 (★855)
+- [forthespada/MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer) - 一款可运行的基于C++ 实现的WebServer服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。 (★1470)
+- [Yzeph/College-study](https://github.com/Yzeph/College-study) - 洛谷刷题记录 (★5)
+- [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card (★7620)
+- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (★24785)
 
-## 2026年03月
+## C#
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (★194225)
-- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (★31812)
-- [MaoTouHU/vibecodingcn](https://github.com/MaoTouHU/vibecodingcn) - 让国内开发者能光速跟上这波浪潮。汇集了目前全球最顶尖的 AI 编程资源, 是 Vibe Coding 氛围感编程的中文指南 (★277)
-- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (★9775)
-- [H-Freax/TermHub](https://github.com/H-Freax/TermHub) - TermHub is a terminal-style homepage template. (★99)
-- [yatori-dev/yatori-go-console](https://github.com/yatori-dev/yatori-go-console) - Yatori课程助手，支持英华慕课(英华学堂及所有英华套壳平台)、超星学习通、学习公社、大学生网络党校、中小学网络党校、创能平台、仓辉等平台、社会公益课、重庆工程学院CQIE、码上研训等 (★522)
-- [HarukaMa/HarukaMa](https://github.com/HarukaMa/HarukaMa) - No description (★6)
-- [wit-l/wit-l.github.io](https://github.com/wit-l/wit-l.github.io) - blog (★1)
-- [wit-l/NeovimStarter](https://github.com/wit-l/NeovimStarter) - my neovim config files (★5)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (★127494)
-- [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 (★1801)
-
-## 2026年02月
-
-- [SHORiN-KiWATA/Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。 (★2029)
-- [SHORiN-KiWATA/shorin-arch-setup](https://github.com/SHORiN-KiWATA/shorin-arch-setup) - 一键配置archlinux桌面环境 (★264)
-- [gnuunixchad/dotfiles](https://github.com/gnuunixchad/dotfiles) - My Arch GNU/Linux (★218)
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone (★25586)
-- [cyfqhyjs/Student-Management-System](https://github.com/cyfqhyjs/Student-Management-System) - 学生管理系统 (★1)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (★126063)
-
-## 2026年01月
-
-- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (★8163)
-- [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt) - Small language model built in Minecraft. (★711)
-- [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial (★9937)
-
-## 2025年12月
-
-- [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script (★9168)
-- [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) - Live2D Library for Python (C++ impl): Supports model loading, lip-sync, basic face rigging, and precise click test. (★547)
-- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal. (★3862)
-- [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀 (★6384)
-- [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | 回家 | GitHub Actions | JMComic3 | JMComic2 (★5315)
-- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (★24290)
-- [opq-osc/OPQ](https://github.com/opq-osc/OPQ) - OPQ RST UVW XYZ (★443)
-- [frankion10093/yui_agent](https://github.com/frankion10093/yui_agent) - No description (★1)
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (★32274)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (★85736)
-- [catppuccin/windows-files](https://github.com/catppuccin/windows-files) - 🍪 Soothing pastel theme for Windows Files (★204)
-
-## 2025年11月
-
-- [SilentSys/SLAM](https://github.com/SilentSys/SLAM) - Source Live Audio Mixer (★391)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (★19376)
-- [YuniqueUnic/animated-sign-4u](https://github.com/YuniqueUnic/animated-sign-4u) - Animated Sign 4u is a small Next.js app and HTTP API for generating animated signature SVGs and static PNG/GIF images.  You can:  Type a name/signature and pick a script/brand fontAnimated Sign ZH  Apply themes (backgrounds, textures, glow/shadow)  Use per-character colors or gradients  Enable Hanzi stroke-by-stroke animation  (★45)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (★25979)
 - [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11. (★5142)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (★56955)
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 (★59838)
-- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 (★28192)
+- [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby (★4353)
+- [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops. (★7535)
+
+## C++
+
+- [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) - Live2D Library for Python (C++ impl): Supports model loading, lip-sync, basic face rigging, and precise click test. (★547)
 - [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - 视觉小说翻译器 / Visual Novel Translator (★12048)
-- [Live-GalGame/LiveGalGame](https://github.com/Live-GalGame/LiveGalGame) - 修复了现实世界里和异性对话没有选择项的 Bug (★2496)
-- [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool. (★5120)
+- [yokochen222/moss-xiaozhi](https://github.com/yokochen222/moss-xiaozhi) - 基于小智AI智能体 实现的流浪地球MOSS版本 (★225)
+- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows (★4569)
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人 (★27547)
+- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/ (★8203)
+- [Zao-chen/ZcChat](https://github.com/Zao-chen/ZcChat) - 一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame (★544)
+- [openxlings/xlings](https://github.com/openxlings/xlings) - Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready. (★587)
+- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (★18871)
+- [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器 (★8317)
+
+## CSS
+
+- [Ukenn2112/Ukenn-index](https://github.com/Ukenn2112/Ukenn-index) - 维安雨轩 の 后花园 (★17)
 - [catppuccin/waybar](https://github.com/catppuccin/waybar) - 📏 Soothing pastel theme for Waybar (★562)
 
-## 2025年10月
+## Emacs Lisp
 
-- [yokochen222/moss-xiaozhi](https://github.com/yokochen222/moss-xiaozhi) - 基于小智AI智能体 实现的流浪地球MOSS版本 (★225)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file (★45334)
-- [InsideEmpire/CS61B-PathwayToSuccess](https://github.com/InsideEmpire/CS61B-PathwayToSuccess) - This repository contains all the lab, homework, and project code solutions for the CS61B Spring 2018 course, along with detailed comments. 这个仓库包含了 CS61B Spring 2018 课程的所有lab、作业和项目代码解答，并附有详细注释。 (★152)
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (★73318)
-- [WLHSDXN/Project2](https://github.com/WLHSDXN/Project2) - No description (★73)
-- [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学 (★315)
-- [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) - The official repo for Wild Chicken University (★126)
-
-## 2025年09月
-
-- [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes. (★602)
 - [LeeWio/dotfiles](https://github.com/LeeWio/dotfiles) - No description (★8)
-- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (★22197)
-- [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows (★4569)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (★3451)
 
-## 2025年08月
+## GDScript
 
-- [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - ⌨️ keyboard-based digital signatures (★906)
-- [KouriChat/KouriChat](https://github.com/KouriChat/KouriChat) - 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream. (★3198)
+- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (★2823)
+
+## Go
+
+- [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser (★7877)
+- [tuna/tunasync](https://github.com/tuna/tunasync) - Mirror job management tool.  (★1851)
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 (★39833)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application (★13278)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (★85736)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (★25979)
+- [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool. (★5120)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (★21414)
+- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 (★49716)
+
+## HTML
+
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone (★180122)
+- [victoriadrake/hugo-theme-introduction](https://github.com/victoriadrake/hugo-theme-introduction) - Minimal, single page, smooth-scrolling theme for Hugo static site generator. (★716)
+- [queensferryme/hugo-theme-texify](https://github.com/queensferryme/hugo-theme-texify) - A minimal, latex-style hugo theme for personal blogging (★149)
+- [braedonsaunders/codeflow](https://github.com/braedonsaunders/codeflow) - Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. (★3568)
+- [yatori-dev/yatori-go-console](https://github.com/yatori-dev/yatori-go-console) - Yatori课程助手，支持英华慕课(英华学堂及所有英华套壳平台)、超星学习通、学习公社、大学生网络党校、中小学网络党校、创能平台、仓辉等平台、社会公益课、重庆工程学院CQIE、码上研训等 (★522)
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南 (★73318)
 - [Akanyi/Gaynum](https://github.com/Akanyi/Gaynum) - A counter of your name‘s gay rate (★42)
 - [Pi3-l22/Pi3-l22.github.io](https://github.com/Pi3-l22/Pi3-l22.github.io) - No description (★2)
 - [bg6cq/speedtest](https://github.com/bg6cq/speedtest) - Lightweight HTML5 Speedtest (★1400)
-
-## 2025年07月
-
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows (★21414)
-- [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art. (★500)
-- [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。 (★3998)
-- [xccii/Barloyd.github.io](https://github.com/xccii/Barloyd.github.io) - No description (★1)
-- [aibox22/readmeX](https://github.com/aibox22/readmeX) - An AI Powered README and Interactive Wiki Generator for Any Projects. AI驱动的README及交互式Wiki生成工具，面向中文的开源DeepWiki。 (★412)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (★26706)
-
-## 2025年06月
-
-- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator (★7933)
-- [Yzeph/MarkWord](https://github.com/Yzeph/MarkWord) - Markdown to Word converter with syntax highlighting and cross-platform support (★5)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (★158342)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator. (★17907)
-- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ (★9603)
-- [IRVING-L/Algorithm_fromBilibili](https://github.com/IRVING-L/Algorithm_fromBilibili) - 《B站-青岛大学-王卓老师-数据结构与算法基础》自学心得、笔记（C++语言实现） (★1216)
-- [whyyy-404/ChaoXing-SuperSrarLearn](https://github.com/whyyy-404/ChaoXing-SuperSrarLearn) - 🥇【学习通助手】【完全免费】【一键挂机】【视频+测试+考试+AI解答】 全自动刷课脚本|可调节倍速|自答题目🏆（吉猪生活）🥳大学必备神器🎉 (★25)
-- [Trashwbin/MultiAI-Answer-cx](https://github.com/Trashwbin/MultiAI-Answer-cx) - 超星学习通-考试💯基于多模型 AI 投票的智能答题助手，让答题更轻松、更准确。免费、快速上手⭐ (★55)
-- [git-learning-game/oh-my-git](https://github.com/git-learning-game/oh-my-git) - An interactive Git learning game! (★2823)
-- [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin) - Miao-Plugin for Yunzai-Bot (★1580)
-- [Genshin-bots/gsuid_core](https://github.com/Genshin-bots/gsuid_core) - 💖一套业务逻辑，多个平台支持！异步核心框架GsCore，为插件编写提供完善平台支持、核心数据库统一、复用游戏查询逻辑、网页控制台，支持Bot列表: NoneBot2 & HoshinoBot & ZeroBot & YunZaiBot & Koishi (★327)
-- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (★5605)
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ (★21560)
-- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (★37930)
-- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly (★8318)
-- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库 (★9706)
-- [zwStar/meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端 (★317)
-- [MNDJ777/HDMI2EL](https://github.com/MNDJ777/HDMI2EL) - This is a project aiming on building a HDMI-EL display adapter.  (★18)
-- [rstyro/Springboot](https://github.com/rstyro/Springboot) - springboot 和一些主流框架的整合的各个基本demo (★1314)
-- [forthespada/MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer) - 一款可运行的基于C++ 实现的WebServer服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。 (★1470)
-- [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design. (★5547)
-- [geekplux/cv_resume](https://github.com/geekplux/cv_resume) - A latex cv/resume template. (★519)
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (★518934)
-- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (★358111)
-
-## 2025年05月
-
-- [JimmyLing233/Github-Student-Certification-Guide](https://github.com/JimmyLing233/Github-Student-Certification-Guide) - Github学生认证及学生包申请指南 (★232)
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time  (★30326)
-- [frankion10093/MyBlog](https://github.com/frankion10093/MyBlog) - 这是基于vue和springboot开发的前后端分离博客 (★1)
-- [frankion10093/StaffManagementSystem](https://github.com/frankion10093/StaffManagementSystem) - No description (★2)
-- [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage (★4573)
 - [Mr-Righter/Mr-Righter.github.io](https://github.com/Mr-Righter/Mr-Righter.github.io) - No description (★1)
-- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。 (★34096)
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人 (★27547)
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme. (★13698)
-- [nekocatso/nekocatso](https://github.com/nekocatso/nekocatso) - 我的个人主页,欢迎fork (★8)
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares  (★25233)
+
+## Java
+
+- [cyfqhyjs/Student-Management-System](https://github.com/cyfqhyjs/Student-Management-System) - 学生管理系统 (★1)
+- [InsideEmpire/CS61B-PathwayToSuccess](https://github.com/InsideEmpire/CS61B-PathwayToSuccess) - This repository contains all the lab, homework, and project code solutions for the CS61B Spring 2018 course, along with detailed comments. 这个仓库包含了 CS61B Spring 2018 课程的所有lab、作业和项目代码解答，并附有详细注释。 (★152)
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ (★37930)
+- [rstyro/Springboot](https://github.com/rstyro/Springboot) - springboot 和一些主流框架的整合的各个基本demo (★1314)
+- [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。 (★34096)
 - [Yzeph/Student-Management-System](https://github.com/Yzeph/Student-Management-System) - 学生管理系统 (★4)
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.   (★18041)
-- [LazyVim/starter](https://github.com/LazyVim/starter) - Starter template for LazyVim (★1926)
+- [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案 (★1200)
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 (★46852)
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 (★127889)
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies (★12406)
+- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具） (★3065)
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 (★39103)
+
+## JavaScript
+
+- [Ovilia/ovilia.github.io](https://github.com/Ovilia/ovilia.github.io) - Ovilia's personal site (★1067)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (★52942)
+- [sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node) - 网易云音乐接口 (★586)
+- [disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music) -  网易云音乐 Electron  客户端 (★654)
+- [Lipomoea/kanameishi](https://github.com/Lipomoea/kanameishi) - 一个基于多款公开API服务、使用Vue和Leaflet开发的接收地震预警及传递相关资讯的Web应用。 (★107)
+- [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel2 VLESS/Trojan/SS 多功能面板 (★38807)
+- [huaisha1224/Microsoft-Rewards](https://github.com/huaisha1224/Microsoft-Rewards) - 使用Python和Selenium赚取每日Microsoft Rewards积分的自动化解决方案，油猴脚本 (★237)
+- [wit-l/wit-l.github.io](https://github.com/wit-l/wit-l.github.io) - blog (★1)
+- [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo (★8163)
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕 (★28192)
+- [Live-GalGame/LiveGalGame](https://github.com/Live-GalGame/LiveGalGame) - 修复了现实世界里和异性对话没有选择项的 Bug (★2496)
+- [xccii/Barloyd.github.io](https://github.com/xccii/Barloyd.github.io) - No description (★1)
+- [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator (★7933)
+- [whyyy-404/ChaoXing-SuperSrarLearn](https://github.com/whyyy-404/ChaoXing-SuperSrarLearn) - 🥇【学习通助手】【完全免费】【一键挂机】【视频+测试+考试+AI解答】 全自动刷课脚本|可调节倍速|自答题目🏆（吉猪生活）🥳大学必备神器🎉 (★25)
+- [yoimiya-kokomi/miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin) - Miao-Plugin for Yunzai-Bot (★1580)
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly (★8318)
+- [zwStar/meituan-backend](https://github.com/zwStar/meituan-backend) - 模仿美团外卖后端 (★317)
 - [214140846/TOGO_School_Miniprograme](https://github.com/214140846/TOGO_School_Miniprograme) - 校园小程序 高校教务 教务查询 校园二手交易 校园论坛 本地生活 跑腿代取 校园评选 兼职招聘 校园生态 云开发小程序 高校 校园新媒体大学生创业 校园教务系统 智慧校园 课表 成绩 空教室 论坛 上课提醒 成绩推送 (★407)
-
-## 2025年04月
-
 - [Misaka-1314/MisakaStudy-MiniProgram](https://github.com/Misaka-1314/MisakaStudy-MiniProgram) - ⭐⭐爱学习签到助手⭐⭐ 本项目基于原生微信小程序开发，无需安装 签到更快捷，支持转发快速代签！无需安装，无安全隐患！✨非开源版支持自动通过滑块验证码，支持批量二维码签到，更多细节请阅读文档！ (★549)
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code (★48570)
-- [Worthy-Wang/offerMachine](https://github.com/Worthy-Wang/offerMachine) - 📚【后台研发岗】面试精华总结（地表最全）。包含C/C++，算法，操作系统，计算机网络，Linux，网络编程，信息安全，数据库等 重点面试知识（持续更新） (★293)
-- [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。 (★2306)
-- [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/ (★8203)
-
-## 2025年03月
-
 - [shylinux/ContextOS](https://github.com/shylinux/ContextOS) - a new cloud operate system (★24)
-- [szvone/Vmq](https://github.com/szvone/Vmq) - V免签 完全开源免费的个人免签约解决方案 (★1200)
-- [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |  (★18823)
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。 (★46852)
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow (★16439)
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 (★127889)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  (★61997)
+- [uuware/icons-font-customization](https://github.com/uuware/icons-font-customization) - Thanks for forking and starring! If you want any features please raise issues! A collection of over 78,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. (★141)
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 (★22856)
+
+## Jinja
+
+- [frankion10093/MyBlog](https://github.com/frankion10093/MyBlog) - 这是基于vue和springboot开发的前后端分离博客 (★1)
+
+## Jupyter Notebook
+
+- [PacktPublishing/Mobile-Deep-Learning-Projects](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects) -  Mobile Deep Learning Projects, published by Packt (★49)
+
+## Kotlin
+
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop. (★5822)
+
+## Lua
+
+- [wit-l/NeovimStarter](https://github.com/wit-l/NeovimStarter) - my neovim config files (★5)
+- [opq-osc/OPQ](https://github.com/opq-osc/OPQ) - OPQ RST UVW XYZ (★443)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (★26706)
+- [LazyVim/starter](https://github.com/LazyVim/starter) - Starter template for LazyVim (★1926)
+
+## Markdown
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (★518934)
+
+## Others
+
+- [rakisaionji/SAWARATSUKI-ServiceLogos](https://github.com/rakisaionji/SAWARATSUKI-ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠  (★29)
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布 (★94370)
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用 (★11855)
+- [MaoTouHU/vibecodingcn](https://github.com/MaoTouHU/vibecodingcn) - 让国内开发者能光速跟上这波浪潮。汇集了目前全球最顶尖的 AI 编程资源, 是 Vibe Coding 氛围感编程的中文指南 (★277)
+- [HarukaMa/HarukaMa](https://github.com/HarukaMa/HarukaMa) - No description (★6)
+- [a1393323447/aseprite-builder](https://github.com/a1393323447/aseprite-builder) - Build Aseprite using Github action(Window, MacOS, Ubuntu) in 10 minutes. (★602)
+- [IRVING-L/Algorithm_fromBilibili](https://github.com/IRVING-L/Algorithm_fromBilibili) - 《B站-青岛大学-王卓老师-数据结构与算法基础》自学心得、笔记（C++语言实现） (★1216)
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库 (★9706)
+- [JimmyLing233/Github-Student-Certification-Guide](https://github.com/JimmyLing233/Github-Student-Certification-Guide) - Github学生认证及学生包申请指南 (★232)
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time  (★30326)
+- [nekocatso/nekocatso](https://github.com/nekocatso/nekocatso) - 我的个人主页,欢迎fork (★8)
+- [Worthy-Wang/offerMachine](https://github.com/Worthy-Wang/offerMachine) - 📚【后台研发岗】面试精华总结（地表最全）。包含C/C++，算法，操作系统，计算机网络，Linux，网络编程，信息安全，数据库等 重点面试知识（持续更新） (★293)
 - [orchestor/book](https://github.com/orchestor/book) - 个人收藏的一些计算机方面的书 (★49)
-- [Zao-chen/ZcChat](https://github.com/Zao-chen/ZcChat) - 一个模仿Galgame效果的AI桌宠 | An AI desktop pet that mimics the effects of a Galgame (★544)
+- [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 (★27595)
+- [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/ (★5685)
+- [lich0821/BotFlow](https://github.com/lich0821/BotFlow) - 机器人框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。 (★1960)
+- [koishijs/uwu](https://github.com/koishijs/uwu) - Koishi VTuberized Logo (★11)
+- [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 (★8050)
+- [destoryD/chaoxing-api](https://github.com/destoryD/chaoxing-api) - 超星/超星尔雅/智慧树/学习通/职教云/智慧职教/中国大学MOOC/雨课堂/考试星等网课题库查题接口API (★247)
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home. (★100886)
+- [michaelliao/awesome-python3-webapp](https://github.com/michaelliao/awesome-python3-webapp) - 小白的Python入门教程实战篇 (★2822)
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. (★46862)
+- [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程 (★10988)
+
+## PHP
+
+- [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - A WordPress theme that is built with AI-assisted reading features, colorful, user-friendly, well-rounded, and rich in functionalities. Support Chinese, English, Japanese, Français (soutien de base) languages. Based on Theme Sakura.  一款具有 AI 辅助阅读功能的 WordPress 主题，多彩、友好、功能全面、体验完善。 支持中、英、日、法（基础适配）多语言。基于 Sakura 主题。 (★3998)
+
+## PowerShell
+
+- [catppuccin/windows-files](https://github.com/catppuccin/windows-files) - 🍪 Soothing pastel theme for Windows Files (★204)
+
+## Python
+
+- [ziqihe10-droid/xuefeng-agent](https://github.com/ziqihe10-droid/xuefeng-agent) - AI 高考志愿顾问 — 会追问、会分析、敢说真话 (★693)
+- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记 (★6531)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (★26685)
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (★13632)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (★172933)
+- [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本 (★9809)
+- [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 (★4936)
+- [MashiroSaber03/Saber-Translator](https://github.com/MashiroSaber03/Saber-Translator) - ✨ 一款小白也能轻松使用的漫画翻译工具，旨在帮助漫画爱好者轻松跨越语言障碍，畅享原汁原味的日文漫画。  利用先进的 AI 技术，智能检测漫画中的对话气泡，精准识别日文文本，并快速翻译成流畅自然的中文。  ✨ 无论是图片还是 PDF 格式的漫画，Saber-Translator 都能轻松应对，让你无压力阅读心爱的漫画作品。 (★3323)
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars! (★1919)
+- [fshiori/magi](https://github.com/fshiori/magi) - Three LLMs debate to make better decisions than any single model. Inspired by EVA's MAGI supercomputer. (★114)
+- [charlesbel/Microsoft-Rewards-Farmer](https://github.com/charlesbel/Microsoft-Rewards-Farmer) - A simple bot that uses selenium to farm Microsoft Rewards written in Python (★1130)
+- [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。 (★855)
+- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone (★25586)
+- [sammyuri/craftgpt](https://github.com/sammyuri/craftgpt) - Small language model built in Minecraft. (★711)
+- [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀 (★6384)
+- [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | 回家 | GitHub Actions | JMComic3 | JMComic2 (★5315)
+- [frankion10093/yui_agent](https://github.com/frankion10093/yui_agent) - No description (★1)
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 (★59838)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file (★45334)
+- [WLHSDXN/Project2](https://github.com/WLHSDXN/Project2) - No description (★73)
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (★22197)
+- [KouriChat/KouriChat](https://github.com/KouriChat/KouriChat) - 【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters in your dream. (★3198)
+- [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art. (★500)
+- [aibox22/readmeX](https://github.com/aibox22/readmeX) - An AI Powered README and Interactive Wiki Generator for Any Projects. AI驱动的README及交互式Wiki生成工具，面向中文的开源DeepWiki。 (★412)
+- [Yzeph/MarkWord](https://github.com/Yzeph/MarkWord) - Markdown to Word converter with syntax highlighting and cross-platform support (★5)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (★158342)
+- [Genshin-bots/gsuid_core](https://github.com/Genshin-bots/gsuid_core) - 💖一套业务逻辑，多个平台支持！异步核心框架GsCore，为插件编写提供完善平台支持、核心数据库统一、复用游戏查询逻辑、网页控制台，支持Bot列表: NoneBot2 & HoshinoBot & ZeroBot & YunZaiBot & Koishi (★327)
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.   (★18041)
+- [Baiyuetribe/kamiFaka](https://github.com/Baiyuetribe/kamiFaka) - 一款基于VUE3.0的高颜值卡密发卡系统，特别适合虚拟商品、知识付费等。 (★2306)
+- [lss233/kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |  (★18823)
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow (★16439)
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ (★35230)
 - [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) - NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台于一体，兼具高扩展性、多模态交互、实时状态推送和自动化运行能力。项目支持 QQ、Discord、Telegram、Minecraft、BilibiliLive、WeChat、Email、SSE(SDK) 等多种平台接入，应用于构建高智能聊天机器人，可扩展为具备代码执行、工具调用、插件协作和复杂任务处理能力的通用 Agent 系统 (★898)
 - [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) - MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection. (★5194)
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies (★12406)
-
-## 2025年02月
-
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally. (★45555)
-
-## 2025年01月
-
-- [metatube-community/jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - MetaTube Plugin for Jellyfin/Emby (★4353)
-
-## 2024年12月
-
-- [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。 (★27595)
-- [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/ (★5685)
-
-## 2024年11月
-
-- [lich0821/BotFlow](https://github.com/lich0821/BotFlow) - 机器人框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要、定时任务。 (★1960)
-- [koishijs/uwu](https://github.com/koishijs/uwu) - Koishi VTuberized Logo (★11)
-- [Yzeph/College-study](https://github.com/Yzeph/College-study) - 洛谷刷题记录 (★5)
-- [openxlings/xlings](https://github.com/openxlings/xlings) - Universal package infrastructure with OS-like SubOS isolation - Multi-version · Rootless · Decentralized Index · Agent-ready. (★587)
-- [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。 (★8050)
 - [caofangkuai/The-Wandering-Earth-550W](https://github.com/caofangkuai/The-Wandering-Earth-550W) - 流浪地球550W量子计算机 -- The Wandering Earth 550W (★7)
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. (★162485)
-- [AnyListen/tools-ocr](https://github.com/AnyListen/tools-ocr) - 树洞 OCR 文字识别（一款跨平台的 OCR 小工具） (★3065)
-- [peng-zhihui/L-ink_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card (★7620)
-
-## 2024年10月
-
-- [coralfox/koishi-qqbot](https://github.com/coralfox/koishi-qqbot) - koishi框架QQ机器人 (★1)
-- [destoryD/chaoxing-api](https://github.com/destoryD/chaoxing-api) - 超星/超星尔雅/智慧树/学习通/职教云/智慧职教/中国大学MOOC/雨课堂/考试星等网课题库查题接口API (★247)
-- [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行 (★24785)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - Programmer's guide about how to cook at home. (★100886)
-- [michaelliao/awesome-python3-webapp](https://github.com/michaelliao/awesome-python3-webapp) - 小白的Python入门教程实战篇 (★2822)
-- [PacktPublishing/Mobile-Deep-Learning-Projects](https://github.com/PacktPublishing/Mobile-Deep-Learning-Projects) -  Mobile Deep Learning Projects, published by Packt (★49)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  (★61997)
-- [blender/blender](https://github.com/blender/blender) - Official mirror of Blender (★18871)
-- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。 (★39103)
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares  (★25232)
-- [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me (★2623)
-- [uuware/icons-font-customization](https://github.com/uuware/icons-font-customization) - Thanks for forking and starring! If you want any features please raise issues! A collection of over 78,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. (★141)
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 (★16226)
 - [niubiqigai/turtle](https://github.com/niubiqigai/turtle) - 使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码 (★447)
 - [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算 (★1331)
 - [ChaosJulien/XiaoYuanKouSuan_Auto](https://github.com/ChaosJulien/XiaoYuanKouSuan_Auto) - 用于小猿口算的基于Python的自动答题工具 (★622)
-
-## 2024年09月
-
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. (★46862)
 - [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) - python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等 (★21826)
 
-## 2024年08月
+## QML
 
-- [jiangjiangjun/Script](https://github.com/jiangjiangjun/Script) - 分享一些自己写的或者搜集的脚本以及小工具！ (★41)
+- [SulfurQWQ/sddm_Random_Kipfel_Login](https://github.com/SulfurQWQ/sddm_Random_Kipfel_Login) - It's a sddm login interface for Arch Linux with a lot of kipfel pictures I took in Vrchat / 这是一个给Arch Liunx用的sddm登陆界面，里面有很多我在vrc拍的kipfel壁纸 (★1)
 
-## 2024年07月
+## Rust
 
-- [miss-mumu/developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程 (★10988)
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 (★21217)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io (★107221)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (★194225)
 
-## 2023年01月
+## Shell
 
-- [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops. (★7535)
-- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。 (★49716)
-- [std-microblock/chromatic](https://github.com/std-microblock/chromatic) - Universal modifier for Chromium/V8 | 广谱注入 Chromium/V8 的通用修改器 (★8317)
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   (★24800)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (★19363)
+- [Youthdreamer/nixos-config](https://github.com/Youthdreamer/nixos-config) - No description (★31)
+- [SHORiN-KiWATA/Shorin-ArchLinux-Guide](https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide) - 【2026最适合新手的Arch Linux教程】具体内容包括：系统安装教程、win+linux双系统、N卡驱动、桌面环境、中文输入法、Linux玩游戏、常用虚拟机程序、显卡直通、干净删除linux等。 (★2029)
+- [SHORiN-KiWATA/shorin-arch-setup](https://github.com/SHORiN-KiWATA/shorin-arch-setup) - 一键配置archlinux桌面环境 (★264)
+- [gnuunixchad/dotfiles](https://github.com/gnuunixchad/dotfiles) - My Arch GNU/Linux (★218)
+- [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial (★9937)
+- [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script (★9168)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. (★56955)
+- [HMUniversity/About](https://github.com/HMUniversity/About) - About Home University | 关于家里蹲大学 (★315)
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (★3451)
+- [coralfox/koishi-qqbot](https://github.com/coralfox/koishi-qqbot) - koishi框架QQ机器人 (★1)
 
-## 2022年10月
+## Swift
 
-- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 (★22856)
+- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (★9775)
 
+## TeX
+
+- [geekplux/cv_resume](https://github.com/geekplux/cv_resume) - A latex cv/resume template. (★519)
+
+## TypeScript
+
+- [Gloridust/WechatOnCloud](https://github.com/Gloridust/WechatOnCloud) - 云微WOC，云微信，自由连接 (★3115)
+- [OpenWebGAL/WebGAL](https://github.com/OpenWebGAL/WebGAL) - A brand new web Visual Novel engine | 全新的网页端视觉小说引擎 (★3854)
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development. (★146352)
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph. (★9200)
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team (★27542)
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.  (★3099)
+- [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具 (★6764)
+- [shodan1q/orb-core](https://github.com/shodan1q/orb-core) - "喂！星" -- 第一颗属于每个人的私人卫星 #黑客松巅峰赛 #Redhackathon (★16)
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (★31812)
+- [H-Freax/TermHub](https://github.com/H-Freax/TermHub) - TermHub is a terminal-style homepage template. (★99)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (★127494)
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (★126063)
+- [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config) - A beautiful config generator for Ghostty terminal. (★3862)
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. (★24290)
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. (★32274)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (★19376)
+- [YuniqueUnic/animated-sign-4u](https://github.com/YuniqueUnic/animated-sign-4u) - Animated Sign 4u is a small Next.js app and HTTP API for generating animated signature SVGs and static PNG/GIF images.  You can:  Type a name/signature and pick a script/brand fontAnimated Sign ZH  Apply themes (backgrounds, textures, glow/shadow)  Use per-character colors or gradients  Enable Hanzi stroke-by-stroke animation  (★45)
+- [WildChickenUniversity/WildChickenUniversity](https://github.com/WildChickenUniversity/WildChickenUniversity) - The official repo for Wild Chicken University (★126)
+- [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature) - ⌨️ keyboard-based digital signatures (★906)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator. (★17907)
+- [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ (★9603)
+- [Trashwbin/MultiAI-Answer-cx](https://github.com/Trashwbin/MultiAI-Answer-cx) - 超星学习通-考试💯基于多模型 AI 投票的智能答题助手，让答题更轻松、更准确。免费、快速上手⭐ (★55)
+- [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love (★5605)
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (★358111)
+
+## Verilog
+
+- [MNDJ777/HDMI2EL](https://github.com/MNDJ777/HDMI2EL) - This is a project aiming on building a HDMI-EL display adapter.  (★18)
+
+## Vim Script
+
+- [frankion10093/StaffManagementSystem](https://github.com/frankion10093/StaffManagementSystem) - No description (★2)
+
+## Visual Basic
+
+- [SilentSys/SLAM](https://github.com/SilentSys/SLAM) - Source Live Audio Mixer (★391)
+
+## Vue
+
+- [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 (★1801)
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ (★21560)
+- [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design. (★5547)
+- [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage (★4573)
+- [anghunk/linuxdo-scripts](https://github.com/anghunk/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店！文档地址：https://linuxdo-scripts.zishu.me (★2623)
+
+## WebAssembly
+
+- [Evil0ctal/WeChat-Channels-Video-File-Decryption](https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption) - 一个可在线运行的微信视频号加密视频解密工具和 API 服务，基于逆向工程分析实现。本项目使用微信官方的 WebAssembly (WASM) 模块来生成 Isaac64 PRNG 密钥流，并通过 XOR 运算完成视频解密。 (★283)
